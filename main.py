@@ -2,12 +2,12 @@
 # CarFinder v0.5 program
 
 # Vehicle list
-AllowedVehiclesList = ['Ford F-150', 'Chevrolet Silverado', 'Tesla CyberTruck', 'Toyota Tundra', 'Nissan Titan']
+AllowedVehiclesList = ['Ford F-150', 'Chevrolet Silverado', 'Tesla CyberTruck', 'Toyota Tundra', 'Nissan Titan', 'Rivian R1T', 'Ram 1500']
 
 # Initialize
 def printMenu():
     print("********************************")
-    print("AutoCountry Vehicle Finder v0.1")
+    print("AutoCountry Vehicle Finder v0.5")
     print("********************************")
     print("Please Enter the following number below from the following menu:")
     print()
